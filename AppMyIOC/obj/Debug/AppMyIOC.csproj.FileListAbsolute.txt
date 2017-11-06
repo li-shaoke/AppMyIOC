@@ -1,0 +1,6 @@
+G:\share\InitIOC\AppMyIOC\AppMyIOC\bin\Debug\AppMyIOC.exe.config
+G:\share\InitIOC\AppMyIOC\AppMyIOC\obj\Debug\AppMyIOC.csprojResolveAssemblyReference.cache
+G:\share\InitIOC\AppMyIOC\AppMyIOC\bin\Debug\AppMyIOC.exe
+G:\share\InitIOC\AppMyIOC\AppMyIOC\bin\Debug\AppMyIOC.pdb
+G:\share\InitIOC\AppMyIOC\AppMyIOC\obj\Debug\AppMyIOC.exe
+G:\share\InitIOC\AppMyIOC\AppMyIOC\obj\Debug\AppMyIOC.pdb
